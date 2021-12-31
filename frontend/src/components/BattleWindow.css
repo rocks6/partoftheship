@@ -1,0 +1,12 @@
+#game-window-container {
+    height: 100%;
+}
+
+#battle-map-container {
+    background-color: lightblue;
+    height: 75%;
+}
+
+#actions-container {
+    height: 25%;
+}
